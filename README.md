@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 # Hi 👋 I am Prasanna Aravindan! 
 I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnologies.ca/), where I am doing my Co-op/internship, as a part of my Master of Cybersecurity program @ [SFU](https://www.sfu.ca/).
@@ -12,7 +10,7 @@ I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnolog
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prasanna7401&theme=dark&hide_border=true" width="400">
 </p>
 
-[![views](https://komarev.com/ghpvc/?username=prasanna7401&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/prasanna7401)
+<!-- [![views](https://komarev.com/ghpvc/?username=prasanna7401&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/prasanna7401) -->
 
 ---
 <p align="center">
