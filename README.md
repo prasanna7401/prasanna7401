@@ -2,11 +2,11 @@
 # Hi 👋 I am Prasanna Aravindan! 
 I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnologies.ca/), where I am doing my Co-op/internship, as a part of my Master of Cybersecurity program @ [SFU](https://www.sfu.ca/).
 
-- ✍️ Connect with me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna7401/).
+- :speech_balloon: Connect with me on [LinkedIn](https://www.linkedin.com/in/prasanna7401/).
 
----
+<!-- ---
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prasanna7401&theme=dark&hide_border=true" width="400">
 </p> -->
 
