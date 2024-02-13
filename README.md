@@ -12,7 +12,7 @@ I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnolog
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prasanna7401&theme=dark&hide_border=true" width="400">
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&langs_count=8"/>
+[views](https://komarev.com/ghpvc/?username=prasanna7401&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/prasanna7401)
 
 ---
 <p align="center">
