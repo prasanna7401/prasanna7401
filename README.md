@@ -11,7 +11,7 @@ I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnolog
 </p> -->
 
 <!-- [![views](https://komarev.com/ghpvc/?username=prasanna7401&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/prasanna7401) -->
-
+<!--
 ## ⚡ Technologies
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -40,7 +40,7 @@ I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnolog
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
+-->
 <!--
 **prasanna7401/prasanna7401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
