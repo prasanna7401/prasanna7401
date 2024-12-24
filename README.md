@@ -26,6 +26,7 @@ I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnolog
 ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+
 <!-- FUTURE USE
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=black)
