@@ -16,14 +16,15 @@ I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnolog
 ![Azure Bicep](https://img.shields.io/badge/Azure%20Bicep-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)&nbsp;
 ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)\
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)\
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?&style=flat&logo=azure%20devops)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat&logo=githubactions&&logoColor=black)\
 ![Microsoft Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-<!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp; -->
+<!--  -->
 
 <!-- ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=black)\ -->
 <!-- ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
