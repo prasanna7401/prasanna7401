@@ -10,14 +10,14 @@ I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnolog
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash)&nbsp;
 ![KQL](https://img.shields.io/badge/KQL-%2300f.svg?style=flat&logo=KQL&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)&nbsp;
 ![Azure Bicep](https://img.shields.io/badge/Azure%20Bicep-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)&nbsp;
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)&nbsp;
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)\
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?&style=flat&logo=azure%20devops)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat&logo=githubactions&&logoColor=black)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat&logo=githubactions&&logoColor=black)\
 ![Microsoft Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
