@@ -4,9 +4,8 @@ I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnolog
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Tech Stack
 
-<center>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash)&nbsp;
@@ -33,9 +32,9 @@ I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnolog
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) -->
 <!-- ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&hide=javascript,less,html,css&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&hide=javascript,less,html,css&theme=radical) -->
 
-</center>
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&hide=javascript,less,html,css&theme=radical">
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
