@@ -31,12 +31,14 @@ I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnolog
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) -->
 <!-- ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&hide=javascript,less,html,css&theme=radical)
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prasanna7401&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&langs_count=8&theme=transparent"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prasanna7401&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+
 </a>
-</p>
+</p> -->
