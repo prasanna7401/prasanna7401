@@ -1,4 +1,4 @@
-I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnologies.ca/), where I am doing my Co-op/internship, as a part of my Master of Cybersecurity program @ [SFU](https://www.sfu.ca/). I'm also certified in Azure & AWS.
+I am a Cloud Security Engineer at [Cavallo Technologies](https://cavallotechnologies.ca/), where I am doing my Co-op/internship as part of my Master of Cybersecurity program at [SFU](https://www.sfu.ca/). I'm also certified in Azure and AWS.
 
 :speech_balloon: Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna7401/)
 
@@ -6,7 +6,7 @@ I am a Cloud Security Engineer @ [Cavallo Technologies](https://cavallotechnolog
 
 ### 🛠 Tech Stack
 
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&hide=javascript,less,html,css&theme=radical">
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&hide=javascript,html,css&theme=radical">
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
