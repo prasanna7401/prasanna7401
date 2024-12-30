@@ -6,7 +6,7 @@ I am a Cloud Security Engineer at [Cavallo Technologies](https://cavallotechnolo
 
 ### 🛠 Tech Stack
 
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&hide=javascript,html,css&theme=radical">
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&hide=javascript,less,html,css&theme=radical">
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
