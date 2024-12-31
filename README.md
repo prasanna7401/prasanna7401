@@ -1,4 +1,4 @@
-I am a Cloud Security Engineer at [Cavallo Technologies](https://cavallotechnologies.ca/), where I am doing my Co-op/internship as part of my Master of Cybersecurity program at [SFU](https://www.sfu.ca/). I'm also certified in Azure and AWS.
+I am a Cloud Security Engineer and a student at [SFU](https://www.sfu.ca/), where I am pursuing a Masters in Cybersecurity. I'm also certified in Azure and AWS.
 
 :speech_balloon: Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna7401/)
 
