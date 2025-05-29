@@ -1,4 +1,5 @@
-I am a Cloud Security Engineer and a student at [SFU](https://www.sfu.ca/), where I am pursuing a Masters in Cybersecurity. I handle SIEM/SOAR, automate infrastructure deployments and management using CI/CD pipelines.
+Currently working as a Cloud Security Engineer at Cavallo Technologies. Previously, a Network Engineer at TCS. Experienced in automating Infrastructure deployments, SIEM/SOAR, implementing Security Best practices, DevSecOps, etc. Certified in Azure, AWS, Terraform, GitHub, Kubernetes etc.
+> Learning Container/Kubernetes Security, Site Reliability, AI, and more.
 
 :speech_balloon: Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna7401/)
 
