@@ -43,7 +43,7 @@ Platform Administration:
 Others: 
 - Containerization:
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
   ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=Helm&labelColor=0F1689)
 - AI:
   ![GitHub CoPilot](https://img.shields.io/badge/Github%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
