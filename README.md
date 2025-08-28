@@ -7,7 +7,7 @@ Currently working as a Cloud Security Engineer at Cavallo Technologies. Previous
 
 ### 🛠 Tech Stack
 
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&hide=javascript,less,html,css&theme=radical">
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&hide=javascript,less,html,css,c#&theme=radical">
 
 Automation:
 - Scripting: 
