@@ -27,9 +27,11 @@ Platform Administration:
   ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
 - Version Control:
   ![GitHub Enterprise](https://img.shields.io/badge/-GitHub%20Enterprise-05122A?style=flat&logo=github)
+  ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 - OS:
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 - Monitoring:
   ![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
   ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
