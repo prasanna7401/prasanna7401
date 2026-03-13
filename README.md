@@ -39,15 +39,16 @@ Platform Administration:
   ![Azure Sentinel](https://img.shields.io/badge/Azure%20Sentinel-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
   ![AWS Security Hub](https://img.shields.io/badge/AWS%20Security%20Hub-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
   ![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-  
+- AI:
+  ![GitHub CoPilot](https://img.shields.io/badge/Github%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
 Others: 
 - Containerization:
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
   ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=Helm&labelColor=0F1689)
-- AI:
-  ![GitHub CoPilot](https://img.shields.io/badge/Github%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+
 - Query Language:
   ![KQL](https://img.shields.io/badge/KQL-%2300f.svg?style=flat&logo=KQL&logoColor=white)
 
