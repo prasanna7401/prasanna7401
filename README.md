@@ -6,7 +6,7 @@ Cloud Security Engineer with 4 years of experience in securing and automating mu
 
 ### 🛠 Tech Stack
 
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&hide=javascript,less,html,css,c%23,makefile&theme=radical">
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&hide=javascript,less,html,css,c%23,makefile,typescript&theme=radical">
 
 Automation:
 - Scripting: 
