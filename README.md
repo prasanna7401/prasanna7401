@@ -1,4 +1,4 @@
-Cloud Security Engineer with 4 years of experience in securing and automating multi-cloud environments. Strong expertise in cloud security, DevOps pipelines, identity governance, implementing security best practices, and incident response, with specialization in Azure, GitHub, and Databricks. Former Network Administrator with deep networking fundamentals and a proven ability to improve deployment efficiency while maintaining enterprise-grade security.
+Cloud Security Engineer with 4 years of experience in securing and automating multi-cloud environments. Strong expertise in cloud security, Agentic AI & DevOps workflows, identity governance, compliance, and incident response, with specialization in Azure, GitHub, and Databricks. Former Network Administrator with deep networking fundamentals and proven ability to improve deployment efficiency while maintaining enterprise-grade security.
 
 :speech_balloon: Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna7401/)
 
