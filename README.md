@@ -6,9 +6,7 @@ Cloud Security Engineer with 4 years of experience in securing and automating mu
 
 ### 🛠 Tech Stack
 
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna7401&layout=compact&hide=javascript,less,html,css,c%23,makefile,typescript&theme=radical">
-
-Automation:
+**Automation**:
 - Scripting: 
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
   ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
@@ -19,7 +17,13 @@ Automation:
   ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
 <!--![Kustomize]()-->
 
-Platform Administration: 
+**AI**:
+  ![GitHub CoPilot](https://img.shields.io/badge/Github%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat&logo=openai&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white)
+
+**Platform Administration**: 
 - Cloud:
   ![Microsoft Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=black)
@@ -39,16 +43,12 @@ Platform Administration:
   ![Azure Sentinel](https://img.shields.io/badge/Azure%20Sentinel-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
   ![AWS Security Hub](https://img.shields.io/badge/AWS%20Security%20Hub-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
   ![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-- AI:
-  ![GitHub CoPilot](https://img.shields.io/badge/Github%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
-  ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
-Others: 
+**Others**: 
 - Containerization:
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
   ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=Helm&labelColor=0F1689)
-
 - Query Language:
   ![KQL](https://img.shields.io/badge/KQL-%2300f.svg?style=flat&logo=KQL&logoColor=white)
 
