@@ -22,6 +22,7 @@ Cloud Security Engineer with 4 years of experience in securing and automating mu
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
   ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat&logo=openai&logoColor=white)
   ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white)
+  ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=flat&logo=langgraph&logoColor=white)
 
 **Platform Administration**: 
 - Cloud:
