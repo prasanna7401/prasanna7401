@@ -1,4 +1,6 @@
-Cloud Security Engineer with experience in securing and automating multi-cloud environments. Strong expertise in cloud security, Agentic AI & DevOps workflows, identity governance, compliance, and incident response, with specialization in Azure, GitHub, and Databricks. Former Network Administrator with deep networking fundamentals and proven ability to improve deployment efficiency while maintaining enterprise-grade security.
+I've spent my career automating complex systems and scaling infrastructure. Across every major platform shift, from on-prem datacenters to cloud, and now to AI, my instinct remains the same: take what is manual, fragile, or slow, and turn it into something reliable, secure, and repeatable.
+
+Lately, that means building and securing agentic systems. I focus on the critical infrastructure that keeps AI governable: cost control, guardrails, and secure access. It's the same security and automation discipline I've always used, applied to where engineering is headed next. 😊
 
 :speech_balloon: Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna7401/)
 
@@ -23,6 +25,7 @@ Cloud Security Engineer with experience in securing and automating multi-cloud e
   ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat&logo=openai&logoColor=white)
   ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white)
   ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=flat&logo=langgraph&logoColor=white)
+  ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=white)
 
 **Platform Administration**: 
 - Cloud:
